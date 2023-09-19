@@ -1,0 +1,47 @@
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: 0.6s all ease-in-out;
+
+
+}
+button:hover{
+
+    background-color:#FF7F50 !important ;
+    transform: scale(1.1);
+
+}
+
+.imgdiv{
+
+    margin-right: 100px;
+}
+#ProductImggSlider{
+
+    -webkit-transition: 0.4s ease;
+    transition: 0.3s ease-in-out;
+    
+
+}
+#ProductImggSlider:hover{
+
+    transform: scale(1.12);
+    
+    overflow: hidden !important;
+    transition-duration: 1s;
+
+
+   
+}
+
+
+.Cart{
+    color: #17b887;
+  }
+  .Cart:hover{
+    color: #d17813;
+  }

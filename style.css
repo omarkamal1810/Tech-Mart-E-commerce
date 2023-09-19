@@ -1,0 +1,315 @@
+
+.header{
+  background-color: 	#E6E6FA;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+}
+
+.navbar-brand {
+
+    font-size: 50px ;
+    font-family:serif;
+    font-weight: 900;
+    color: #0c1b4d;
+
+}
+.fill{
+    color: blue;
+}
+
+.signup{
+color: #4b4646;
+}
+.Cart{
+  color: #17b887;
+}
+.Cart:hover{
+  color: #d17813;
+}
+
+
+
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+  font-family:'Times New Roman', Times, serif;
+  font-weight:100px;
+  font-style:unset;
+}
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.9s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 3s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+
+
+/* back to top  */
+
+
+
+.back-to-top-btn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  background-color: #243649;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.back-to-top-btn:hover {
+  background-color: #f39c12;
+}
+
+
+
+/* category */
+.Section-Product-List ul{
+border-radius: 8px;
+width: 35%;
+margin: auto;
+padding: 25px 0;
+
+}
+.Section-Product-List ul li{
+cursor: pointer;
+transition: 0.5s;
+font-size: 20px;
+}
+.Section-Product-List ul li:hover{
+  color: #FF7F50;
+
+  }
+
+/* card */
+
+.card{
+
+  border-radius: 15px;
+  overflow: hidden;
+  transition: 0.5s all ease-in-out;
+  margin: 0 auto;
+
+
+}
+.card:hover{
+  margin-bottom: 25px;
+  margin-top: 25px;
+  margin-left: 5pt;
+  margin-right: 5px;
+
+  transform: scale(1.1);
+}
+.card-img-top{
+
+  width: 5px;
+  background-color: #717171;
+}
+.card-body{
+  border-radius: 0 0 15px 15px;
+  background-color: var(--primary);
+   
+}
+.col-3{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-body a{
+  display: flex;
+  width: auto;
+  margin: 5px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: color 0.5s;
+  background-color: #000 !important;
+  border: #E6E6FA;
+
+  
+}
+
+.card-body a:last-of-type{
+  background-color: #6495ED !important;
+
+}
+
+.card-body a:hover{
+
+  background-color:#FF7F50 !important ;
+
+}
+
+
+
+
+
+
+/* footer */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color:	#E6E6FA;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+ height: auto;
+}
+.footer-brand {
+  font-size: 50px ;
+  font-family:serif;
+  font-weight: 900;
+  color: #0c1b4d;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 10px auto;
+}
+
+.footer-logo img {
+  width: 100px;
+  height: auto;
+}
+
+.footer-links a {
+  color: #000000;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+
+
+
+.footer-links a:hover {
+  color: #f39c12;
+}
+
+.footer-social img {
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+}
+
+.footer-social a:hover img {
+  filter: brightness(70%);
+}
+
+
+.footer-incloud {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
+
+.footer-map iframe {
+
+  width: 380px ;
+  height: 160px;;
+}
+
+.footer-info {
+  text-align: left;
+  flex: 1;
+  padding: 0 25px;
+  border-right: 3px solid #297883;
+  margin-right: 20px;
+}
+
+.footer-info h2 {
+  margin-bottom: 10px;
+  color: #1309a0;
+}
+
+.footer-info p {
+  margin: 5px 0;
+  color: #000;
+}
+
+

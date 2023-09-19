@@ -1,0 +1,535 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14 pro",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 900 ,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-3.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "iPhone 13 pro max",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 899,
+    "discountPercentage": 17.94,
+    "rating": 4.44,
+    "stock": 34,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "images": [
+      "https://www.romapy.com/50524-large_default/apple-iphone-13-pro-max--128gb-sierra-blue-a2484---apple-iphone-13-pro-max--128gb-sierra-blue-a2484.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg",
+      "https://i.dummyjson.com/data/products/2/3.jpg",
+      "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "iPhone 12 pro max",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 1109,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F253005_1.jpg&w=3840&q=85"]
+  },
+  {
+    "id": 4,
+    "title": "iPhone 14 pro max",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 800,
+    "discountPercentage": 17.91,
+    "rating": 4.3,
+    "stock": 123,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6443/6443129_sd.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg",
+      "https://i.dummyjson.com/data/products/4/3.jpg",
+      "https://i.dummyjson.com/data/products/4/4.jpg",
+      "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "iPhone 14 pro ",
+    "description": "An apple mobile which is nothing like apple iphone.",
+    "price": 770,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_hero_09142021_inline.jpg.large.jpg",
+      "https://i.dummyjson.com/data/products/5/2.jpg",
+      "https://i.dummyjson.com/data/products/5/3.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro",
+    "description": "MacBook Pro 2021 with mini-LED display may launch ",
+    "price": 1749,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.png",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "MacBook",
+    "description": "MacBook   S (2020) Laptop With Intel Lakefield Chip ",
+    "price": 1800,
+    "discountPercentage": 4.15,
+    "rating": 4.25,
+    "stock": 50,
+    "brand": "Apple",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/7/2.jpg",
+      "https://i.dummyjson.com/data/products/7/3.jpg",
+      "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Laptop ",
+    "description": "Style and speed. Stand out on HD video calls backed  ",
+    "price": 999,
+    "discountPercentage": 10.23,
+    "rating": 4.43,
+    "stock": 68,
+    "brand": "Microsoft Surface",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg",
+      "https://i.dummyjson.com/data/products/8/3.jpg",
+      "https://i.dummyjson.com/data/products/8/4.jpg",
+      "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Infinix INBOOK",
+    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – ",
+    "price": 899,
+    "discountPercentage": 11.83,
+    "rating": 4.54,
+    "stock": 96,
+    "brand": "Infinix",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/9/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.png",
+      "https://i.dummyjson.com/data/products/9/3.png",
+      "https://i.dummyjson.com/data/products/9/4.jpg",
+      "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "HP Pavilion 15",
+    "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5",
+    "price": 1099,
+    "discountPercentage": 6.18,
+    "rating": 4.43,
+    "stock": 89,
+    "brand": "HP Pavilion",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg",
+      "https://i.dummyjson.com/data/products/10/3.jpg",
+      "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "MacBook Pro",
+    "description": "MacBook Pro 2022 with mini-LED display may launch ",
+    "price": 1859,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://www.aiho.es/11630-superlarge_default/macbook-pro-retina-13-i5-26ghz-8gb-128gb-2014.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "MacBook ",
+    "description": "MacBook  2021 with mini-LED display may launch ",
+    "price": 1350,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-spacegray-select-202206?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1664497359481",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "iPhone 12",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 750 ,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-purple-2021?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202738000",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ]
+  },{
+    "id": 14,
+    "title": "iPhone 13 pro max",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 1050 ,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_09142021_inline.jpg.slideshow-medium_2x.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ]
+  },{
+    "id": 15,
+    "title": "iPhone 12 pro max",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 900 ,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-13-pro-max-silver-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072987085",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ]
+  },{
+    "id": 16,
+    "title": "MacBook Pro",
+    "description": "MacBook Pro 2023 with mini-LED display  ",
+    "price": 1749,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "laptops",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://btech.com/cdn-cgi/image/quality=50,format=auto/media/catalog/product/cache/c53aa40a463cfb7a6348f9ed634d788a/3/a/3a395677efd11abe21a63f4b51281ea1a82cd517be4565a595cac9e56cf1a322.jpeg",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },{
+    "id": 17,
+    "title": "apple watch",
+    "description": "Buy Apple Watch Series 8 GPS, 45mm Midnight Aluminum Case with Starlight Sport Band ",
+    "price": 749,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://th.bing.com/th/id/OIP.yVA4_rLNfMmeCm2ufvY7fwHaHa?pid=ImgDet&rs=1",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "apple watch",
+    "description": "Buy Apple Watch Series 8 GPS, 45mm Midnight Aluminum Case with Starlight Sport Band ",
+    "price": 900,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://ehabgroup.com/media/catalog/product/cache/06d35a09f18452ed935fb5b36a0a49f1/s/m/smart_watch_ultra_wiwu_sw01_golden.png",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "apple watch",
+    "description": "Buy Apple Watch Series 8 GPS, 45mm Midnight Aluminum Case with Starlight Sport Band ",
+    "price": 819,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/FKN83?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1647901251471",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "apple watch",
+    "description": "Buy Apple Watch Series 8 GPS, 45mm Midnight Aluminum Case with Starlight Sport Band ",
+    "price": 559,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://i5.walmartimages.com/asr/26aefa0c-c0a6-4670-82d0-e2554f108d3e.d50fefd657bd2a68d52c6267157f7580.png",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },{
+    "id": 21,
+    "title": "Galaxy Watch",
+    "description": "Samsung Galaxy Watch 4 Classic, 46mm, Silver- BT46 ",
+    "price": 540,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "samsung",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://btech.com/cdn-cgi/image/quality=50,format=auto/media/catalog/product/cache/071d5ccae038fcedc91e567360d549bc/0/1/01_0027_1024x1024_2x.png",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Galaxy Watch",
+    "description": "Samsung Galaxy Watch 4 Classic, 46mm, Silver- BT46 ",
+    "price": 650,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "samsung",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://images.samsung.com/is/image/samsung/p6pim/eg/2208/gallery/eg-galaxy-watch5-44mm-sm-r910nzaamea-thumb-533192756?$344_344_PNG$",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Galaxy Watch",
+    "description": "Samsung Galaxy Watch 4 Classic, 46mm, Silver- BT46 ",
+    "price": 490,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "samsung",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://images.samsung.com/is/image/samsung/p6pim/eg/2307/gallery/eg-galaxy-watch6-classic-r955-sm-r950nzsamea-thumb-537404289?$172_172_PNG$",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Galaxy Watch",
+    "description": "Samsung Galaxy Watch 4 Classic, 46mm, Silver- BT46 ",
+    "price": 700,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "samsung",
+    "category": "watch",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "images": [
+      "https://images.samsung.com/is/image/samsung/p6pim/eg/2108/gallery/eg-galaxy-watch4-classic-399280-sm-r890nzkamea-thumb-481183097?$172_172_PNG$",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "iPad Pro ",
+    "description": "An ipad tablet which is nothing like apple",
+    "price": 1109,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://shop.orange.eg/content/images/thumbs/0004921_apple-ipad-pro.jpeg"]
+  },
+  {
+    "id": 26,
+    "title": "iPad Pro",
+    "description": "An ipad tablet which is nothing like apple",
+    "price": 999,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://select.eg/cdn/shop/products/iPad-Pro-12.9-2021.jpg?v=1648483461"]
+  },
+  {
+    "id":27 ,
+    "title": "iPad Pro",
+    "description": "An ipad tablet which is nothing like apple",
+    "price": 965,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://btech.com/cdn-cgi/image/quality=50,format=auto/media/catalog/product/cache/8e279240a6612e9579d3be696bac1c07/a/p/apple-ipad-pro-1tb-12-9-inch-silver_1.jpg"]
+  },
+  {
+    "id": 28,
+    "title": "iPad Pro",
+    "description": "An ipad tablet which is nothing like apple",
+    "price": 989,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://btech.com/cdn-cgi/image/quality=50,format=auto/media/catalog/product/cache/8e279240a6612e9579d3be696bac1c07/p/_/p_3.jpg"]
+  },
+  {
+    "id": 29,
+    "title": "iPad mini",
+    "description": "An ipad tablet which is nothing like apple 256GB",
+    "price": 750,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://mac-center.com.pe/cdn/shop/products/IMG-106029_9285e9c0-91d4-408a-b242-6af6ce324453_823x.jpg?v=1660909261"]
+  },
+  {
+    "id": 30,
+    "title": "iPad mini",
+    "description": "An ipad tablet which is nothing like apple 128GB",
+    "price": 687,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://m.media-amazon.com/images/I/416wL%2B6mrNL._SL500_.jpg"]
+  },
+  {
+    "id": 31,
+    "title": "iPad mini",
+    "description": "An ipad tablet which is nothing like apple 512GB",
+    "price": 899,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://www.bhphotovideo.com/images/images2500x2500/apple_mk7r3ll_a_ipad_mini_wi_fi_64gb_1664339.jpg"]
+  },
+  {
+    "id": 32,
+    "title": "iPad mini",
+    "description": "An ipad tablet which is nothing like apple",
+    "price": 786,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Apple",
+    "category": "ipads",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-ipad-mini-wifi-pink-gallery-2022?wid=1150&hei=1150&fmt=jpeg&qlt=95&.v=1674165788377"]
+  }
+ 
+]
